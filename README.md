@@ -1,2 +1,1 @@
-# Amazing-Fruit-Cathcer
-AMAZING GAME
+# C39-Debug-Part-1
